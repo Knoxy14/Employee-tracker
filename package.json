@@ -1,0 +1,26 @@
+{
+  "name": "comanydb",
+  "version": "1.0.0",
+  "description": "A command line interface Node application that allows a user to create, view, and delete company departents, employees, and employee roles, each with their own set of information such as job title salary, and more.",
+  "main": "app.js",
+  "dependencies": {
+    "inquirer": "^7.1.0",
+    "mysql": "^2.18.1",
+    "node": "^16.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Knoxy14/Employee-tracker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Knoxy14/Employee-tracker/issues"
+  },
+  "homepage": "https://github.com/Knoxy14/Employee-tracker#readme"
+}
